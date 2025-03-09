@@ -65,6 +65,8 @@ Unzip the file and double click "Mug Diffusion.exe", which will open a browser i
 
 ### Running from Source
 
+* Python=3.9
+
 If you use other platforms, other GPU types or want to run from source, here are the instructions.
 
 - Install [Python](https://www.python.org/downloads/)
